@@ -80,3 +80,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Feel free to reach out if you have any questions or need assistance with the application! Enjoy using Simple NotePad!
+![image](https://github.com/user-attachments/assets/358d0893-cca4-468e-80a3-c94cee0be031)
+
+![notepadPng](https://github.com/user-attachments/assets/1a5bd404-6c8d-4aa0-94ca-5fcf8211792f)
+
+![image](https://github.com/user-attachments/assets/dccef3d2-376d-44ca-8fdb-f72412e8c257)
+
+![image](https://github.com/user-attachments/assets/8a488710-d4f0-44d7-b22d-9a9fec7af5cb)
+
+
+![image](https://github.com/user-attachments/assets/0d08ddde-b7e3-4497-8fe7-c37f5642d84d)
