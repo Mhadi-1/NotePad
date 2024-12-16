@@ -42,11 +42,8 @@ To run the Simple NotePad Application, ensure you have the following installed:
 
 ▎Installation
 
-1. Clone this repository:
+1. Clone this repository
    
-   git clone https://github.com/yourusername/SimpleNotePad.git
-   
-
 2. Open the project in Visual Studio.
 
 3. Build the solution to restore any dependencies.
