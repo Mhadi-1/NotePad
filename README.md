@@ -1,6 +1,6 @@
 ▎Simple NotePad Application
 
-Welcome to the Simple NotePad Application! This is a lightweight text editor designed for Windows, allowing users to create, edit, and save text files effortlessly. Whether you need to jot down quick notes or work on longer documents, this application provides a straightforward interface to meet your needs.
+Simple NotePad Application! This is a lightweight text editor designed for Windows, allowing users to create, edit, and save text files effortlessly. Whether you need to jot down quick notes or work on longer documents, this application provides a straightforward interface to meet your needs.
 
 ▎Features
 
